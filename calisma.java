@@ -16,7 +16,7 @@ public class calisma {
         System.out.println("3. SAYIYI GİRİNİZ.");
         int sayi3 = a.nextInt();
 
-        double ortalama = (sayi1 + sayi2 + sayi3) / 3;
+        double ortalama = (sayi1 + sayi2 + sayi3) / 3.0;
 
         System.out.println("GİRDİĞİNİZ SAYILARIN ORTALAMASI : " + ortalama);
     }
