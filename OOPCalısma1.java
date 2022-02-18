@@ -8,7 +8,6 @@ public class OOPCalısma1 {
         CemberDaire daire1 = new CemberDaire(5);
         System.out.printf("Yarıçapı 5 olan dairenin alanı ; %.2f",  daire1.alanBul());
 
-
     }
 }
 
